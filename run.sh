@@ -1,3 +1,1 @@
-z="
-";qz='ti';Wz=' Fir';Nz='════';Az='clea';pz='u_ma';Ez='33[1';iz='y Re';Jz='pamm';bz='Blac';Oz='══╕';az='page';Zz='Fans';Iz='et S';Uz='  : ';Sz='Auth';oz='de_l';cz='k Sc';nz='reco';Rz='7m  ';Lz=';31m';Tz='or  ';jz='al';mz='php ';ez='chan';Xz='mans';Fz=';32m';Mz='╒═══';hz='Lerr';kz='1m╘═';Dz=' "\0';Pz='\033';lz='╛';Yz='yah';gz='t : ';Qz='[1;3';Cz='echo';fz='el y';Vz='Ivan';Bz='r';dz='anne';Hz='figl';Gz='"';Kz='er';
-eval "$Az$Bz$z$Cz$Dz$Ez$Fz$Gz$z$Hz$Iz$Jz$Kz$z$Cz$Dz$Ez$Lz$Mz$Nz$Nz$Nz$Nz$Nz$Nz$Nz$Oz$z$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$z$Zz$az$Uz$bz$cz$dz$Bz$z$ez$fz$gz$hz$iz$jz$z$Pz$Qz$kz$Nz$Nz$Nz$Nz$Nz$Nz$Nz$Nz$lz$z$Gz$z$mz$nz$oz$pz$qz"
+echo "script sudah tidak work..."
